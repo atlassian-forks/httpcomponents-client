@@ -57,6 +57,10 @@
       <name>Apache HttpComponents Website</name>
       <url>scm:svn:https://svn.apache.org/repos/asf/httpcomponents/site/components/httpcomponents-client-5.4.x/LATEST/</url>
     </site>
+    <repository>
+      <id>atlassian-3rdparty</id>
+      <url>https://packages.atlassian.com/maven/3rdparty</url>
+    </repository>
   </distributionManagement>
 
   <properties>
